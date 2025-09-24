@@ -63,6 +63,9 @@ Restart the Neo4j Service by using the below command.
 
 Installation of Cloud Watch Agent to send the Neo4j database logs to Cloud watch.
 What type of Logs it will send- 
+
   debug logs
+  
   query logs
+  
   neo4j logs
