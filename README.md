@@ -58,4 +58,11 @@ How to enable the GDS & APOC Libraries
  <img width="1507" height="74" alt="image" src="https://github.com/user-attachments/assets/a03a02c6-0c3c-4f98-8581-e37983b8b2cf" />
 
 Restart the Neo4j Service by using the below command.
+
 ./bin/neo4j restart
+
+Installation of Cloud Watch Agent to send the Neo4j database logs to Cloud watch.
+What type of Logs it will send- 
+  debug logs
+  query logs
+  neo4j logs
